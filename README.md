@@ -1,3 +1,7 @@
+## I HAVE MADE THIS PROJECT FOR SPARKLIN
+## BOOKSELLING ECOMMERCE APP IN REACT
+## NO CSS LIBRARY IS USED
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
