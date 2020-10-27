@@ -2,6 +2,10 @@
 ## BOOKSELLING ECOMMERCE APP IN REACT
 ## NO CSS LIBRARY IS USED
 
+![alt text](https://i.ibb.co/Gdf7VXP/screencapture-mrakm-sparklin-2020-10-23-12-55-14.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
